@@ -1,0 +1,267 @@
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\LoginScreen.g.cs
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\App.baml
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\LoginScreen.baml
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\Window2.g.cs
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\Window3.g.cs
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\Window2.baml
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\Window3.baml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Проекты\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\Window4.g.cs
+D:\Проекты\WpfApp1\WpfApp1\obj\Debug\Window4.baml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\LoginScreen.g.cs
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\Window2.g.cs
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\Window3.g.cs
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\Window4.g.cs
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\LoginScreen.baml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\Window2.baml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\Window3.baml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\Window4.baml
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\lifec\OneDrive\Рабочий стол\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
